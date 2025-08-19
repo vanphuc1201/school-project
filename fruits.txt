@@ -1,5 +1,1 @@
-apples
-bananas
-cherries
-dragon fruits
-figs
+test
